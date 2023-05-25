@@ -15,7 +15,7 @@ Each APK file contains one or more vulnerabilities to explore and learn from.
 
 ## CTF Format
 
-The project follows a CTF (Capture the Flag) format. The flag, or correct answer, is stored in the format `CTF{...}`. Your goal is to find and retrieve the flag for each challenge.
+The project follows a CTF (Capture the Flag) format. The flag, or correct answer, is stored in the format `FLAG{...}`. Your goal is to find and retrieve the flag for each challenge.
 
 ## Additional Resources
 
